@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Epicco</h1>
-<h3 align="center">A passionate java developer from Germany 😋</h3>
+<h3 align="center">A passionate java developer from Germany.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theepicco&label=Profile%20views&color=0e75b6&style=flat" alt="theepicco" /> </p>
 
 <p align="left"> <a href="https://twitter.com/epiccohd" target="blank"><img src="https://img.shields.io/twitter/follow/epiccohd?logo=twitter&style=for-the-badge" alt="epiccohd" /></a> </p>
 
-- 🔭 I’m currently working on **Xenyria and CraftMiner**
+- 🔭 I’m currently working on **CraftMiner**
 
 <h3 align="left">Contact:</h3>
 <p align="left">
-<a href="https://twitter.com/epiccohd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="epiccohd" height="30" width="40" /></a>
+<a href="https://twitter.com/DerEpicco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="epiccohd" height="30" width="40" /></a>
 <a href="https://instagram.com/derepicco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="derepicco" height="30" width="40" /></a>
-<a href="https://discord.gg/xenyria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xenyria" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
